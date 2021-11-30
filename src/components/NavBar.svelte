@@ -24,7 +24,7 @@ function handleClick() {
             </div>
         </div>
             <ul class="text-sm mt-6 hidden md:block" bind:this={menu} id="menu">
-                <li class="text-gray-700 font-bold py-1">
+                <li class="text-gray-700 font-bold py-3">
                     <a href="/home" class="px-4 flex justify-center border-r-4 border-red-500">
                         <span>Home</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -32,7 +32,7 @@ function handleClick() {
                           </svg>
                     </a> 
                 </li>
-                <li class="py-1">
+                <li class="py-3">
                     <a href="/about" class="px-4 flex justify-center border-r-4 border-white">
                         <span>About</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -40,7 +40,7 @@ function handleClick() {
                           </svg>
                     </a> 
                 </li>
-                <li class="py-1">
+                <li class="py-3">
                     <a href="/contact" class="px-4 flex justify-center border-r-4 border-white">
                         <span>Contact</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
