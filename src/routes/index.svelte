@@ -36,7 +36,7 @@ function handleClick() {
             <h4 class="font-bold mt-12 pb-2 border-b border-gray-200">Latest Recipes</h4>
             
             
-            <div class="mt-8 grid lg:grid-cols-3 gap-10">
+            <div class="mt-8 grid lg:grid-cols-3 gap-10 overflow-x-hidden">
 
                 <!-- cards go here-->
                 <div class="card">
