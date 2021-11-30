@@ -23,8 +23,8 @@ function handleClick() {
 
     <main class='px-16 py-6 bg-gray-100 md:col-span-2'>
         <div class="flex justify-center md:justify-end">
-            <a href="#" class='btn text-red-500 md:border-2 border-red-400 hover:bg-red-400 hover:text-white'>Log in</a>
-            <a href="#" class='btn text-red-500 md:border-2 border-red-400 ml-2 hover:bg-red-400 hover:text-white'>Sign up</a>
+            <a href="/" class='btn text-red-500 md:border-2 border-red-400 hover:bg-red-400 hover:text-white'>Log in</a>
+            <a href="/" class='btn text-red-500 md:border-2 border-red-400 ml-2 hover:bg-red-400 hover:text-white'>Sign up</a>
         </div>
 
         <header>
