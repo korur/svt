@@ -17,7 +17,7 @@ function handleClick() {
     <nav class="text-right">
         <div class="flex justify-between items-center">
             <h1 class="font-bold uppercase p-4 border-b border-gray-100">
-                <a href="/" class="hover:text-gray-700">Food Ninja</a>
+                <a href="/" class="hover:text-gray-700 tracking-widest">Food Ninja</a>
             </h1>
             <div on:click={handleClick} class="px-4 cursor-pointer md:hidden" id="burger">
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">

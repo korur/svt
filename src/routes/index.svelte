@@ -21,7 +21,7 @@ function handleClick() {
   <!-- end nav -->
 
 
-    <main class='px-16 py-6 bg-gray-100 m-0 md:col-span-2'>
+    
         <div class="flex justify-center md:justify-end">
             <a href="/" class='btn text-red-500 md:border-2 border-red-400 hover:bg-red-400 hover:text-white'>Log in</a>
             <a href="/" class='btn text-red-500 md:border-2 border-red-400 ml-2 hover:bg-red-400 hover:text-white'>Sign up</a>
@@ -104,7 +104,6 @@ function handleClick() {
         </div>
 
 
-    </main>
 
 
 
