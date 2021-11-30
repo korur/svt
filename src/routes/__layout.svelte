@@ -9,7 +9,7 @@
 
     <NavBar></NavBar>
 
-<main class="px-16 py-6 bg-gray-100 md:col-span-2">
+<main class="px-16 py-6 bg-gray-100 m-0 md:col-span-2">
 
     <slot />
 </main> 

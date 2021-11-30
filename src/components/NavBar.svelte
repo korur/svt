@@ -13,7 +13,7 @@ function handleClick() {
 
 
 
-<div class="md:col-span-1 md:flex md:justify-end">
+<div class="md:col-span-1  md:flex md:justify-end">
     <nav class="text-right">
         <div class="flex justify-between items-center">
             <h1 class="font-bold uppercase p-4 border-b border-gray-100">
@@ -26,7 +26,7 @@ function handleClick() {
             </div>
         </div>
             <ul class="text-sm mt-6 hidden md:block" bind:this={menu} id="menu">
-                <li class="text-gray-700 font-bold">
+                <li class="text-gray-700 font-bold py-1">
                     <a href="/home" class="px-4 flex justify-end border-r-4 border-red-500">
                         <span>Home</span>
                         <svg xmlns="http://www.w3.org/2000/svg" class="w-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
